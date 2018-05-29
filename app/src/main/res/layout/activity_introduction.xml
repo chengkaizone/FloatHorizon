@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_introduction"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    tools:context="wings.floathorizon.activity.Introduction"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        >
+
+        <ImageButton
+            android:id="@+id/activityIntroduction_back"
+            android:contentDescription="@string/back"
+            android:layout_width="@dimen/button"
+            android:layout_height="@dimen/button"
+            android:layout_margin="8dp"
+            android:src="@drawable/back"
+            android:scaleType="fitCenter"
+            android:background="#00000000"
+            />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:textSize="20sp"
+            android:text="@string/introduction_title"
+            />
+    </LinearLayout>
+    <WebView
+        android:id="@+id/activityIntroduction_webView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </WebView>
+</LinearLayout>

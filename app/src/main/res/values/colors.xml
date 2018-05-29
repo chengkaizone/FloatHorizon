@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="activityMain_xy">#4DBDF0</color>
+    <color name="aspect_point">#EE007F</color>
+    <color name="aspect_pointTargeted">#4DBDF0</color>
+    <color name="swing_line">#EE007F</color>
+    <color name="swing_lineTargeted">#4DBDF0</color>
+</resources>

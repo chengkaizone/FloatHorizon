@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preference_range_value">
+        <item>10</item>
+        <item>30</item>
+        <item>45</item>
+        <item>90</item>
+    </string-array>
+</resources>

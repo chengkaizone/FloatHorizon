@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/activityMain_mode_aspect"
+        android:title="@string/activityMain_mode_aspect"
+        />
+    <item
+        android:id="@+id/activityMain_mode_swing"
+        android:title="@string/activityMain_mode_swing"
+        />
+</menu>

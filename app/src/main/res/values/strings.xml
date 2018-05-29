@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">浮游水平仪</string>
+    <string name="back">返回</string>
+    <string name="backTip">再次点击返回退出程序</string>
+    <string name="activityMain_buttonExit">退出</string>
+    <string name="activityMain_buttonHide">隐藏</string>
+    <string name="activityMain_buttonSet">设置</string>
+    <string name="activityMain_buttonIntroduction">说明</string>
+    <string name="activityMain_buttonMode">模式</string>
+    <string name="activityMain_textX">X: </string>
+    <string name="activityMain_textY">Y: </string>
+    <string name="activityMain_mode_aspect">平面模式</string>
+    <string name="activityMain_mode_swing">摇摆模式</string>
+    <string name="preference_screenOn">屏幕常亮</string>
+    <string name="preference_range">量程</string>
+    <string name="preference_range_default">30</string>
+    <string name="preference_range_unit">度</string>
+    <string name="preference_title">设置</string>
+    <string name="preference_global">全局</string>
+    <string name="preference_aspect">平面模式</string>
+    <string name="introduction_title">说明</string>
+    <string name="gradienter_background">背景</string>
+    <string name="aspect_backgroundRate">0.728</string>
+    <string name="swing_backgroundRate">0.805</string>
+
+    <string name="url_introduction">file:///android_asset/introduction.html</string>
+</resources>

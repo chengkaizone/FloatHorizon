@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="button">32dp</dimen>
+    <dimen name="text">28sp</dimen>
+    <dimen name="activityMain_buttonMode_margin">16dp</dimen>
+    <dimen name="gradienter">256dp</dimen>
+    <dimen name="gradienter_reduced">64dp</dimen>
+    <dimen name="aspect_pointRadius">16dp</dimen>
+    <dimen name="aspect_pointRadius_reduced">4dp</dimen>
+    <dimen name="swing_lineWidth">8dp</dimen>
+    <dimen name="swing_lineWidth_reduced">2dp</dimen>
+</resources>

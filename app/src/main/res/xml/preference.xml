@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <PreferenceCategory
+        android:title="@string/preference_global">
+        <SwitchPreference
+            android:key="@string/preference_screenOn"
+            android:title="@string/preference_screenOn"
+            android:defaultValue="false"
+            >
+        </SwitchPreference>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="@string/preference_aspect"
+        android:title="@string/preference_aspect">
+        <ListPreference
+            android:key="@string/preference_range"
+            android:title="@string/preference_range"
+            android:dialogTitle="@string/preference_range"
+            android:entries="@array/preference_range_value"
+            android:entryValues="@array/preference_range_value"
+            android:defaultValue="@string/preference_range_default"
+            >
+        </ListPreference>
+    </PreferenceCategory>
+</PreferenceScreen>
