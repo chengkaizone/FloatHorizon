@@ -2,6 +2,7 @@
     <h1>浮游水平仪</h1>
     <h4>
         <p>可以悬浮在手机屏幕上的水平仪</p>
+        <p>链接：<a href='./app/FloatHorizon.apk'>Android APK</a></p>
     </h4>
 </header>
 <br/>
